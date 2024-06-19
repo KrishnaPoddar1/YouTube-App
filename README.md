@@ -91,3 +91,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Created the Video Container and VideoCard Component
 - Installed the React-router-dom and configured the app accordingly
 - Created an basic watch page to the dynamic based on the video
+
+- Building the Search feature using the Youtube Search suggestions API.
+- Loading a search page based on the search results.
+- Building N level comments using Dummy Data. 
+- Changed the routing suh that Head is also included and useNavigate hook can be used.
