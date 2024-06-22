@@ -96,3 +96,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Loading a search page based on the search results.
 - Building N level comments using Dummy Data. 
 - Changed the routing suh that Head is also included and useNavigate hook can be used.
+
+- Built a live chat component along with a way to add your own message on to it.
+- Made it so that the poage doesn't bloat or freeze when the data exceeds a certain limit(Here it is 10).
